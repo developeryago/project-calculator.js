@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+:root {
+    --bg-color: #212529;
+    --border-color: #666;
+    --font-color: #f1f5f9;
+    --primary-color: #4dff91;
+    --error-color: #ff0043;
+  }
+
+@media screen and (max-width: 380px){
+    
+    header {
+        padding: 1rem 0 ;
+    }
+
+    button {
+        border-radius: 1.50rem;
+        padding: 0.5rem 1rem;
+      }
+
+    #keys {
+        margin: 1rem 0;
+    }
+    #keys button {
+        font-size: 1.4rem;
+        padding: 0.8rem;
+    }
+    #keys button.mod {
+        font-size: 0rem;
+    }
+}
+
+@media screen and (m-width: 480px){
+    button {
+        border-radius: 1.25rem;
+        padding: 0.5rem 1rem;
+      }
+
+    #keys {
+        margin: 2.5rem 0;
+    }
+
+    #keys button {
+    font-size: 2.3rem;
+    padding: 1rem;
+    }
+
+    #keys button.mod {
+        font-size: 1.4rem;
+    }
+
+    .charKey{
+        margin: .09rem;
+    }
+}
