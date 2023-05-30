@@ -28,7 +28,6 @@ document.querySelectorAll(".charKey").forEach(function (charKeyBtn) {
 
 document.getElementById("clear").addEventListener("click", function (){
     input.value = ""
-    input.focus()
 })
 
 document.getElementById("equal").addEventListener("click", calculate)
