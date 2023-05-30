@@ -1,56 +1,104 @@
 @charset "UTF-8";
 
-:root {
-    --bg-color: #212529;
-    --border-color: #666;
-    --font-color: #f1f5f9;
-    --primary-color: #4dff91;
-    --error-color: #ff0043;
-  }
-
-@media screen and (max-width: 380px){
-    
+@media screen and (min-width: 24rem){
     header {
-        padding: 1rem 0 ;
+        padding: 3rem 0 ;
+        font-size: 1.5rem;
     }
-
-    button {
-        border-radius: 1.50rem;
-        padding: 0.5rem 1rem;
-      }
 
     #keys {
-        margin: 1rem 0;
+        margin: 2rem 0;
     }
+
     #keys button {
-        font-size: 1.4rem;
-        padding: 0.8rem;
+        font-size: 1.6rem; 
+        margin-top: .6rem;
     }
+
     #keys button.mod {
-        font-size: 0rem;
+        font-size: 1.2rem;
+    }
+
+    button{
+        border-radius: .50rem;
+    }
+
+    #input, section {
+        height: 5.5rem;
+    }
+
+    #copyToClipboard, #themeSwitcher{
+        font-size: 1rem;
     }
 }
 
-@media screen and (m-width: 480px){
-    button {
-        border-radius: 1.25rem;
-        padding: 0.5rem 1rem;
-      }
+@media screen and (min-width: 25rem){
+    header{
+        padding: 4rem 0 ;
+        font-size: 1.8rem;
+    }
+
+    #keys button{
+        margin-top: 1.2rem;
+    }
+
+    button{
+        border-radius: .50rem;
+    }
+}
+@media screen and (min-width: 41rem){
+    header{
+        font-size: 2rem;
+    }
+    
+    #keys button{
+        font-size: 1.8rem;
+        margin-top: .8rem;
+    }
+
+    #input, section {
+        height: 6rem;
+    }
+
+    #copyToClipboard, #themeSwitcher{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 55rem){
+    header{
+        padding: 2rem 0;
+        font-size: 1.3rem;
+    }
+
+    main {
+        max-width: 38rem;
+        padding: 0 1.5rem;
+    }
+
+    #input, section {
+        font-size: 1rem;
+        margin: 0 auto;
+        height: 4rem;
+    }
 
     #keys {
-        margin: 2.5rem 0;
+        margin: 2rem 0;
     }
 
-    #keys button {
-    font-size: 2.3rem;
-    padding: 1rem;
+    #keys button{
+        font-size: 1.5rem;
+        padding: .3rem;
+        margin-top: 0.2rem;;
+        border-radius: .25rem;
     }
 
-    #keys button.mod {
-        font-size: 1.4rem;
+    #copyToClipboard {
+        height: 4.25rem;
+        width: 6rem;
     }
 
-    .charKey{
-        margin: .09rem;
+    #copyToClipboard, #themeSwitcher{
+        font-size: 1rem;
     }
 }
