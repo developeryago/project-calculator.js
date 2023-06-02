@@ -10,4 +10,6 @@ Após, capturei todos os botões ".chakKey" utilizando o .forEach e adicionei um
 Para resolver o cálculo já inserido no input atrasvés dos valores dataset utilizei uma função que chamei de "calculate" e dentro dela fiz uma verificação simples de erro atribuindo previamente ao input desabilitado da área inferior informações de erro que serão rapidamente substituídas pelo resultado se o método eval() possa resolver a função inserida, caso contrário a mensagem de erro permanece e acaba sendo exibida no campo inferior. <br>
 Quanto ao botão "copy" fiz uso do 'navigator.clipboard.writeText()' e dento dele coloquei o valor do campo de exibição do resultado.
 <br>
+Link: https://developeryago.github.io/project-calculator.js/
+<br>
 Espero que goste!
