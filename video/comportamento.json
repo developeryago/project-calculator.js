@@ -1,0 +1,663 @@
+{
+    "title": "Gravação de 02/06/2023, 08:31:54",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1366,
+            "height": 625,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://developeryago.github.io/project-calculator.js/",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://developeryago.github.io/project-calculator.js/",
+                    "title": "Calc.js"
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/5"
+                ],
+                [
+                    "button:nth-of-type(10)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[10]"
+                ],
+                [
+                    "pierce/button:nth-of-type(10)"
+                ],
+                [
+                    "text/5"
+                ]
+            ],
+            "offsetY": 22.25,
+            "offsetX": 66
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/0"
+                ],
+                [
+                    "button:nth-of-type(17)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[17]"
+                ],
+                [
+                    "pierce/button:nth-of-type(17)"
+                ],
+                [
+                    "text/0"
+                ]
+            ],
+            "offsetY": 16.6875,
+            "offsetX": 49
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/*"
+                ],
+                [
+                    "button:nth-of-type(8)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[8]"
+                ],
+                [
+                    "pierce/button:nth-of-type(8)"
+                ],
+                [
+                    "text/*"
+                ]
+            ],
+            "offsetY": 23.03125,
+            "offsetX": 26
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/1"
+                ],
+                [
+                    "button:nth-of-type(13)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[13]"
+                ],
+                [
+                    "pierce/button:nth-of-type(13)"
+                ],
+                [
+                    "text/1"
+                ]
+            ],
+            "offsetY": 18.46875,
+            "offsetX": 97
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/5"
+                ],
+                [
+                    "button:nth-of-type(10)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[10]"
+                ],
+                [
+                    "pierce/button:nth-of-type(10)"
+                ],
+                [
+                    "text/5"
+                ]
+            ],
+            "offsetY": 11.25,
+            "offsetX": 70
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/="
+                ],
+                [
+                    "#equal"
+                ],
+                [
+                    "xpath///*[@id=\"equal\"]"
+                ],
+                [
+                    "pierce/#equal"
+                ],
+                [
+                    "text/="
+                ]
+            ],
+            "offsetY": 18.6875,
+            "offsetX": 41
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Copy"
+                ],
+                [
+                    "#copyToClipboard"
+                ],
+                [
+                    "xpath///*[@id=\"copyToClipboard\"]"
+                ],
+                [
+                    "pierce/#copyToClipboard"
+                ],
+                [
+                    "text/Copy"
+                ]
+            ],
+            "offsetY": 31.09375,
+            "offsetX": 63
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Copied!"
+                ],
+                [
+                    "#copyToClipboard"
+                ],
+                [
+                    "xpath///*[@id=\"copyToClipboard\"]"
+                ],
+                [
+                    "pierce/#copyToClipboard"
+                ],
+                [
+                    "text/Copied!"
+                ]
+            ],
+            "offsetY": 33.09375,
+            "offsetX": 50
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/C"
+                ],
+                [
+                    "#clear"
+                ],
+                [
+                    "xpath///*[@id=\"clear\"]"
+                ],
+                [
+                    "pierce/#clear"
+                ]
+            ],
+            "offsetY": 25.8125,
+            "offsetX": 61
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/8"
+                ],
+                [
+                    "button:nth-of-type(6)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[6]"
+                ],
+                [
+                    "pierce/button:nth-of-type(6)"
+                ],
+                [
+                    "text/8"
+                ]
+            ],
+            "offsetY": 26.03125,
+            "offsetX": 66
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/0"
+                ],
+                [
+                    "button:nth-of-type(17)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[17]"
+                ],
+                [
+                    "pierce/button:nth-of-type(17)"
+                ],
+                [
+                    "text/0"
+                ]
+            ],
+            "offsetY": 31.6875,
+            "offsetX": 117
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria//"
+                ],
+                [
+                    "button:nth-of-type(4)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[4]"
+                ],
+                [
+                    "pierce/button:nth-of-type(4)"
+                ],
+                [
+                    "text//"
+                ]
+            ],
+            "offsetY": 26.8125,
+            "offsetX": 41
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2"
+                ],
+                [
+                    "button:nth-of-type(14)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[14]"
+                ],
+                [
+                    "pierce/button:nth-of-type(14)"
+                ],
+                [
+                    "text/2"
+                ]
+            ],
+            "offsetY": 25.46875,
+            "offsetX": 101
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/="
+                ],
+                [
+                    "#equal"
+                ],
+                [
+                    "xpath///*[@id=\"equal\"]"
+                ],
+                [
+                    "pierce/#equal"
+                ],
+                [
+                    "text/="
+                ]
+            ],
+            "offsetY": 17.6875,
+            "offsetX": 33
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/C"
+                ],
+                [
+                    "#clear"
+                ],
+                [
+                    "xpath///*[@id=\"clear\"]"
+                ],
+                [
+                    "pierce/#clear"
+                ]
+            ],
+            "offsetY": 16.8125,
+            "offsetX": 66
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/("
+                ],
+                [
+                    "button:nth-of-type(2)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[2]"
+                ],
+                [
+                    "pierce/button:nth-of-type(2)"
+                ],
+                [
+                    "text/("
+                ]
+            ],
+            "offsetY": 23.8125,
+            "offsetX": 23
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/8"
+                ],
+                [
+                    "button:nth-of-type(6)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[6]"
+                ],
+                [
+                    "pierce/button:nth-of-type(6)"
+                ],
+                [
+                    "text/8"
+                ]
+            ],
+            "offsetY": 21.03125,
+            "offsetX": 71
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/0"
+                ],
+                [
+                    "button:nth-of-type(17)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[17]"
+                ],
+                [
+                    "pierce/button:nth-of-type(17)"
+                ],
+                [
+                    "text/0"
+                ]
+            ],
+            "offsetY": 25.6875,
+            "offsetX": 86
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/+"
+                ],
+                [
+                    "button:nth-of-type(16)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[16]"
+                ],
+                [
+                    "pierce/button:nth-of-type(16)"
+                ],
+                [
+                    "text/+"
+                ]
+            ],
+            "offsetY": 18.46875,
+            "offsetX": 58
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2"
+                ],
+                [
+                    "button:nth-of-type(14)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[14]"
+                ],
+                [
+                    "pierce/button:nth-of-type(14)"
+                ],
+                [
+                    "text/2"
+                ]
+            ],
+            "offsetY": 20.46875,
+            "offsetX": 71
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/0"
+                ],
+                [
+                    "button:nth-of-type(17)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[17]"
+                ],
+                [
+                    "pierce/button:nth-of-type(17)"
+                ],
+                [
+                    "text/0"
+                ]
+            ],
+            "offsetY": 19.6875,
+            "offsetX": 40
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/)"
+                ],
+                [
+                    "button:nth-of-type(3)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[3]"
+                ],
+                [
+                    "pierce/button:nth-of-type(3)"
+                ],
+                [
+                    "text/)"
+                ]
+            ],
+            "offsetY": 20.8125,
+            "offsetX": 50
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/*"
+                ],
+                [
+                    "button:nth-of-type(8)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[8]"
+                ],
+                [
+                    "pierce/button:nth-of-type(8)"
+                ],
+                [
+                    "text/*"
+                ]
+            ],
+            "offsetY": 20.03125,
+            "offsetX": 38
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/2"
+                ],
+                [
+                    "button:nth-of-type(14)"
+                ],
+                [
+                    "xpath///*[@id=\"keys\"]/button[14]"
+                ],
+                [
+                    "pierce/button:nth-of-type(14)"
+                ],
+                [
+                    "text/2"
+                ]
+            ],
+            "offsetY": 24.46875,
+            "offsetX": 28
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/="
+                ],
+                [
+                    "#equal"
+                ],
+                [
+                    "xpath///*[@id=\"equal\"]"
+                ],
+                [
+                    "pierce/#equal"
+                ],
+                [
+                    "text/="
+                ]
+            ],
+            "offsetY": 16.6875,
+            "offsetX": 31
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Copy"
+                ],
+                [
+                    "#copyToClipboard"
+                ],
+                [
+                    "xpath///*[@id=\"copyToClipboard\"]"
+                ],
+                [
+                    "pierce/#copyToClipboard"
+                ],
+                [
+                    "text/Copy"
+                ]
+            ],
+            "offsetY": 44.09375,
+            "offsetX": 27
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Switch Theme"
+                ],
+                [
+                    "#themeSwitcher"
+                ],
+                [
+                    "xpath///*[@id=\"themeSwitcher\"]"
+                ],
+                [
+                    "pierce/#themeSwitcher"
+                ],
+                [
+                    "text/Switch Theme"
+                ]
+            ],
+            "offsetY": 25,
+            "offsetX": 18.578125
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "aria/Switch Theme"
+                ],
+                [
+                    "#themeSwitcher"
+                ],
+                [
+                    "xpath///*[@id=\"themeSwitcher\"]"
+                ],
+                [
+                    "pierce/#themeSwitcher"
+                ],
+                [
+                    "text/Switch Theme"
+                ]
+            ],
+            "offsetY": 25,
+            "offsetX": 18.578125
+        }
+    ]
+}
